@@ -1,3 +1,4 @@
+//program to demonstrate bitwise operator
 package org.tnsif.operators;
 
 public class BitwiseOperatorDemo {
